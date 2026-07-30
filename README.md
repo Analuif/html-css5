@@ -1,2 +1,3 @@
-# html-css5
-Curso em Vídeo HTML5 e CSS3 
+https://youtu.be/iSqf2iPqJNM?si=qyq455KEet6Wh8G4. Front-end, Back-end e Full stack.Duração do Vídeo: 19 minutos. Data de visualização: 30/07/26
+Hoje assisti ao vídeo do canal o curso de html e css, começa a “Front-end, Back-end e Full stack”. Front-end, é que as pessoas vêem e usam o usuário vê e utiliza, o desenvolvedor utiliza tecnologias como HTML, CSS e JavaScript para criar a interface. Back-end é a parte do sistema que funciona por trás do site, e roda no servidor o processamento de dados, acesso a bancos de informações e comunicação com o banco de dados. Full stack, é o profissional que trabalha tanto com o Front-end quanto com o Back-end, possui conhecimentos nas duas áreas, sendo o desenvolver a parte visual e parte interna do sistema, participando da criação completa de um site...
+
